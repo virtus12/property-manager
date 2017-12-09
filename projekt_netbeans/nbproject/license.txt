@@ -1,0 +1,9 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Aplikacja zaliczeniowa z Inzynieri Oprogramowania
+${licensePrefix}Kopiowanie i udostepnianie bez zgody zarzadu Tomaszewska Inc. zabronione ${licensePrefix}
+${licensePrefix}Wszelkie prawa zastrzezone dla Tomaszewska Inc. ${licensePrefix}
+<#if licenseLast??>
+${licenseLast}
+</#if>
